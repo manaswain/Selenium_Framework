@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-23T09:22:25 IST" name="Default suite" finished-at="2023-08-23T09:22:25 IST" duration-ms="110">
+  <suite started-at="2023-08-24T20:50:27 IST" name="Default suite" finished-at="2023-08-24T20:50:27 IST" duration-ms="111">
     <groups>
     </groups>
-    <test started-at="2023-08-23T09:22:25 IST" name="Default test" finished-at="2023-08-23T09:22:25 IST" duration-ms="110">
+    <test started-at="2023-08-24T20:50:27 IST" name="Default test" finished-at="2023-08-24T20:50:27 IST" duration-ms="111">
       <class name="Sample.Demo2Test">
-        <test-method signature="d2Test()[pri:0, instance:Sample.Demo2Test@1530c739]" started-at="2023-08-23T09:22:25 IST" name="d2Test" finished-at="2023-08-23T09:22:25 IST" duration-ms="20" status="FAIL">
+        <test-method signature="d2Test()[pri:0, instance:Sample.Demo2Test@1530c739]" started-at="2023-08-24T20:50:27 IST" name="d2Test" finished-at="2023-08-24T20:50:27 IST" duration-ms="21" status="FAIL">
           <exception class="java.lang.NullPointerException">
             <message>
               <![CDATA[Cannot invoke "String.equalsIgnoreCase(String)" because "BROWSER" is null]]>
